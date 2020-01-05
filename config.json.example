@@ -1,0 +1,6 @@
+{
+  "persist_results": true,
+  "results_file": "results.json",
+  "n_jobs": 4,
+  "opensmile": "path/to/opensmile/"
+}
